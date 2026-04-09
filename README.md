@@ -4,6 +4,7 @@ Control your computer with hand gestures — Iron Man JARVIS style!
 ## Install
 ```
 pip install -r requirements.txt
+python -m ensurepip --upgrade
 ```
 
 ## Run
